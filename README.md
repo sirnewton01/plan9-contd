@@ -8,7 +8,7 @@ These changes have occurred on top of an ancient software base (ie. Unix/Linux/B
 
 If the current computing landscape was built on outdated base imagine what could be accomplished by lifting the weights off with a relatively modern alternative. Further adaptations and modernization are still be required, but certainly far less than the effort spent and continues to be spent on the legacy systems. In contrast, imagine how much more limiting and costly it would have been if we had continued to push MS-DOS and Multics forward.
 
-Let's consider how the compuring environment has changed since Plan 9 was under active development and discuss how it can adapt to the new circumstances while retaining the core benefits of the system.
+Let's consider how the computing environment has changed since Plan 9 was under active development and discuss how it can adapt to the new circumstances while retaining the core benefits of the system.
 
 ## Filesystems and unstable connections
 
