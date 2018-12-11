@@ -62,3 +62,5 @@ While the Plan 9 approach covers what is currently considered containers and jai
 ## Low cost machines
 
 ## Inseparability of computer system, business and society
+
+Do you have any issues with this document? If so, you can raise them here [https://github.com/sirnewton01/plan9-contd/issues](https://github.com/sirnewton01/plan9-contd/issues)
