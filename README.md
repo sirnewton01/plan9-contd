@@ -108,4 +108,4 @@ Another way to better align business with users interest is to create direct rev
 
 Efforts to help with the business models could also come from public resources as well. As mentioned previously, the technology has a profound influence on people's lives and it is in the public's interest for it to be managed ethically.
 
-Do you have any issues with this document? If so, you can raise them here [https://github.com/sirnewton01/plan9-contd/issues](https://github.com/sirnewton01/plan9-contd/issues)
+Do you have any issues with this document? If so, you can raise them here [github.com/sirnewton01/plan9-contd/issues](https://github.com/sirnewton01/plan9-contd/issues)
